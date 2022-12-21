@@ -4,6 +4,7 @@
 
 Analista de Testes/QA na empresa Solutis Tecnologias <br>
 Atualmente tô estudando JavaScript pra melhorar meus testes automatizados em Cypress + Cucumber <br>
+Consequentemente, aprimorando a escrita de cenários em Gherkin <br>
 Também tô aprendendo HTML e CSS <br><br>
 
 Feel free to contact me
