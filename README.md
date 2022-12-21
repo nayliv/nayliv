@@ -13,6 +13,10 @@ Feel free to contact me
 <a href="mailto:deolivenay@gmail.com/"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/nayliv_/"><img height="25px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
+##
+
+<img align="center" src="https://github.com/nayliv/nayliv/blob/output/github-contribution-grid-snake.svg"/>
+
 
 
 
