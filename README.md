@@ -1,11 +1,18 @@
-<img align="right" height="200px" width="200px" border="0" src="https://i.picasion.com/pic92/b9db58c103f56228feb295d918aaf73d.gif"/>
+<img align="right" height="200px" width="200px" border="0" src="https://user-images.githubusercontent.com/95467974/210419330-4eb988c3-4328-4b33-85bf-46bf3329cb41.jpg"/>
 
-### Oi, sou a Nayra :)
+<h1 align=""> Olá! eu sou a Nayra :) </h1>
 
-Analista de Testes/QA na empresa Solutis Tecnologias <br>
-Atualmente tô estudando JavaScript pra melhorar meus testes automatizados em Cypress + Cucumber <br>
-Consequentemente, aprimorando a escrita de cenários em Gherkin <br>
-Também tô aprendendo HTML e CSS <br><br>
+Analista de Testes / QA na empresa Solutis Tecnologias.<br>
+<br>📘Pós-graduação em Engenharia de Software com ênfase em Qualidade e Teste (VincIT)<br>
+📗Formação em Teste de Software (Iterasys)<br>
+📙Graduação em Psicologia (UNESP) :grimacing: <br> 
+
+## 🔨 Tecnologias utilizadas
+
+- `JavaScript`
+- `Cypress ^10+`
+- `Cucumber`
+- `Gherkin`
 
 Feel free to contact me
 
@@ -18,6 +25,7 @@ Feel free to contact me
 
 <img align="center" src="https://github.com/nayliv/nayliv/blob/output/github-contribution-grid-snake.svg"/>
 
+https://i.picasion.com/pic92/b9db58c103f56228feb295d918aaf73d.gif
 
 
 
