@@ -25,7 +25,5 @@ Feel free to contact me
 
 <img align="center" src="https://github.com/nayliv/nayliv/blob/output/github-contribution-grid-snake.svg"/>
 
-https://i.picasion.com/pic92/b9db58c103f56228feb295d918aaf73d.gif
-
 
 
