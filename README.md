@@ -2,7 +2,7 @@
 
 <h1 align=""> Olá! eu sou a Nayra :) </h1>
 
-📌 Analista de Testes / QA II na empresa Solutis Tecnologias.<br>
+📌 Analista de Testes / QA II na empresa Solutis Tecnologias
 <br>📘Pós-graduação em Engenharia de Software com ênfase em Qualidade e Teste (VincIT)<br>
 📗Formação em Teste de Software (Iterasys)<br>
 
