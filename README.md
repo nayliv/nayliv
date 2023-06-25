@@ -1,4 +1,4 @@
-<img align="right" height="200px" width="200px" border="0" src="https://user-images.githubusercontent.com/95467974/223902171-fec86516-c3c6-4d52-b774-499bc9662752.jpg"/>
+<img align="right" height="200px" width="200px" border="0" src="https://github.com/nayliv/nayliv/assets/95467974/148e9777-7f12-4b97-beca-f055ac1d04ea"/>
 
 <h1 align=""> Olá! eu sou a Nayra :) </h1>
 
