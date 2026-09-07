@@ -2,22 +2,9 @@
 
 <h1 align=""> Olá! eu sou a Nayra :) </h1>
 
-📌 Analista de Testes / QA II na empresa Solutis Tecnologias
-<br>📘Pós-graduada em Engenharia de Software com ênfase em Qualidade e Teste (VincIT)<br>
-📗Formação em Teste de Software (Iterasys)<br>
-
-## 🔨 Tecnologias utilizadas
-
-- `JavaScript`
-- `Cypress ^10+`
-- `Cucumber`
-- `Gherkin`
+📌 Analista de Testes Automatizados Sênior na empresa Solutis Tecnologias
 
 Feel free to contact me
 
 <a href="https://www.linkedin.com/in/nayra-de-oliveira/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:deolivenay@gmail.com/"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-
-
