@@ -1,6 +1,6 @@
 # Hi, I'm Nayra 👋
 
-### QA Engineer | Test Automation | Software Quality
+### QA Automation Engineer | Test Automation | Software Quality
 
 I’m a **Senior Quality Assurance Engineer** focused on **test automation**, with experience in **Web, Mobile, API, and Performance Testing**.
 
